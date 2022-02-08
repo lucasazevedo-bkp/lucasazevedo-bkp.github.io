@@ -1,5 +1,4 @@
 ## [BST Games](https://github.com/lucasazevedo/bstgames)
-<hr>
 
 > Buy, Sell and Trade used games.
 >
@@ -14,7 +13,6 @@
 <hr>
 
 ## [COURSE - Django framework na prática](https://github.com/lucasazevedo/visitor-control)
-<hr>
 
 > Visitor control system.
 > 
