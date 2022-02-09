@@ -14,7 +14,7 @@
 
 <hr>
 
-### COURSE - Django framework na prática: [View nn GitHub](https://github.com/lucasazevedo/visitor-control)
+### COURSE - Django framework na prática: [View on GitHub](https://github.com/lucasazevedo/visitor-control)
 
 > Visitor control system.
 
